@@ -16,7 +16,7 @@ export default function ArticleDetail() {
           </h1>
 
           <p className="text-[16px] md:text-[20px] text-gray-500 mb-8">
-            Why Ghost (& Figma) instead of Medium, WordPress or other options?
+            Why Ghost (& Figma) instead of Medium?
           </p>
         </div>
 
