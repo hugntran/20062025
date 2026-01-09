@@ -15,7 +15,7 @@ export default function FeaturedArticle() {
           </h2>
         </Link>
         <p className="mt-2 text-[20px]">
-          Why(& Figma) instead of Medium?
+          Why Ghost NOW (& Figma) instead of Medium?
         </p>
         <hr className="mt-[34px] mb-0 border-t border-gray-900 w-full" />
       </div>
